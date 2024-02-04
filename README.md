@@ -13,6 +13,12 @@ This project employs transfer learning with the ResNet50 model to identify archi
 
 ![Clasification result](aplication_answer_view.png)
 
+<picture>
+  <source src="aplication_first_view.png">
+  <source src="aplication_with_image.png">
+  <img src="aplication_answer_view.png">
+</picture>
+
 
 # Usage with Docker Compose
 
