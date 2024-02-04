@@ -7,11 +7,11 @@ This project employs transfer learning with the ResNet50 model to identify archi
 
 - Web Application with FastAPI and Vue.js: Interactive web app to upload images and identify architectural styles with a single button press. The code for web aplication is under ***services*** folder
 
-![Upload image](aplication_first_view.PNG)
+![Upload image](images/aplication_first_view.PNG)
 
-![Uploaded images](apllication_with_image.PNG)
+![Uploaded images](images/apllication_with_image.PNG)
 
-![Clasification result](aplication_answer_view.PNG)
+![Clasification result](images/aplication_answer_view.PNG)
 
 # Usage with Docker Compose
 
